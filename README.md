@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到一名hack的官方网站
 
 You can use the [editor on GitHub](https://github.com/hack130/hack130.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
